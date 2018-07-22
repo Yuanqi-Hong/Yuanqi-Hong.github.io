@@ -11,8 +11,9 @@
 	.st5{fill:#BBDEFB;}
 	.st6{fill:#EC407A;}
 	.st7{font-family:'RobotoCondensed-Bold';}
-	.st8{font-size:15.2564px;}
+	.st8{font-size:20px;}
 	.st9{font-family:'RobotoCondensed-Regular';}
+	.st10{font-size:15.2564px;}
 </style>
 <rect x="73.5" y="70.7" class="st0" width="846.5" height="236.4"/>
 <line class="st1" x1="73.5" y1="307.1" x2="73.5" y2="70.7"/>
@@ -51,6 +52,6 @@
 <rect x="73.5" y="123.9" class="st5" width="166.3" height="11.8"/>
 <rect x="73.5" y="100.2" class="st5" width="453.5" height="11.8"/>
 <rect x="73.5" y="76.6" class="st6" width="831.4" height="11.8"/>
-<text transform="matrix(1 0 0 1 357.0435 26.2736)" class="st2 st7 st8">The Man that Rules MusicNet’s Database</text>
-<text transform="matrix(1 0 0 1 217.0234 53.0929)" class="st2 st9 st8">In MusicNet&apos;s database, Beethoven has 55 compositions, steamrolling Bach and Mozart.</text>
+<text transform="matrix(1 0 0 1 296.001 28.2736)" class="st2 st7 st8">The Man that Rules MusicNet’s Database</text>
+<text transform="matrix(1 0 0 1 194.8789 53.0929)" class="st2 st9 st10">In MusicNet&apos;s database, Beethoven has 55 compositions, steamrolling Bach and Mozart.</text>
 </svg>
