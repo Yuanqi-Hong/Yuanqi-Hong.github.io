@@ -942,6 +942,11 @@
             
             <p class="body-text sub-font">
             The reddit dataset contains multiple fields and we start by dropping those that don’t add information for our analysis, for instance <code>link_id</code>; we also drop columns like <code>edited</code> and <code>gilded</code>, for their values are mostly zero. We are focusing on the <code>body</code> of the reddit posts and the time it was created, along with indicators like <code>score</code>.
+            <br><br>
+            As for the body of the reddit posts, we employed several steps of filtering. Firstly, we from a list of individual words for each post by splitting posts based on the space and irrelevant symbols are removed.
+            Secondly, we removed all the stopwords which do not express any emotion, such as me, he, is, the, this etc.
+            <br><br>
+            <a href="https://files.slack.com/files-pri/TD38SV29X-FD3QV4HTN/wordcloud.png">Word cloud</a>
             </p>
 
             </div>
